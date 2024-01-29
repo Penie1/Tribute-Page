@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+  padding: 20px 5px;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  font-weight: 400;
+  background: rgb(192, 191, 187);
+}
+h1,
+h2 {
+  color: rgb(61, 61, 61);
+}
+
+a:visited {
+  color: rgb(122, 87, 67);
+}
+
+h2,
+h3 {
+  font-weight: 600;
+}
+figcaption {
+  padding-inline: 7px;
+}
+figcaption,
+#title,
+h2 {
+  text-align: center;
+}
+li {
+  margin-left: 15px;
+}
+p {
+  text-align: justify;
+}
+#main {
+  padding: 20px 5px;
+}
+#image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+#title,
+h2 {
+  margin-block: 20px;
+}
+#img-div,
+#header {
+  margin-bottom: 50px;
+}
+
+#header {
+  background-color: rgba(255, 255, 255, 0.774);
+  padding: 20px 10px;
+}
+
+#achievement {
+  margin-block: 20px 10px;
+}
+#title {
+  font-weight: 700;
+  font-size: 2.1rem;
+  margin-bottom: 60px;
+}
+#tribute-info {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+#suggestion {
+  font-size: 1.2rem;
+}
+
+@media (max-width: 480px) {
+  #title {
+    font-size: 1.6rem;
+  }
+}
