@@ -4,9 +4,9 @@ There are a total of five web programming projects requred to earn the Responsiv
 
 ## About Project
 
-Objective: Build an app that is functionally similar to [this]("https://tribute-page.freecodecamp.rocks/"). Don;t copy this demo project.
+Objective: Build an app that is functionally similar to [this]("https://tribute-page.freecodecamp.rocks/"). Don't copy this demo project.
 
-Here is 👉 [my solution]("")
+Here is 👉 [my solution]("https://athlete-haile-gebrselassie.netlify.app/")
 
 ### User Stories:
 
